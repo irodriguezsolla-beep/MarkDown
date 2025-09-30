@@ -13,3 +13,5 @@
 1. Modelos de estudio generados por IA
     * Visión de futuro
       * Visión de futuro2
+
+![imagen](scara.jpg)
