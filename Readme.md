@@ -14,4 +14,6 @@
     * Visión de futuro
       * Visión de futuro2
 
+- [x] En el ámbito educativo, estos desarrollos han permitido la creación de plataformas de aprendizaje adaptativo que pueden personalizar los contenidos y métodos de enseñanza para cada estudiante.
+- [ ] En el ámbito educativo, estos desarrollos han permitido la creación de plataformas de aprendizaje adaptativo que pueden personalizar los contenidos y métodos de enseñanza para cada estudiante.
 ![imagen](scara.jpg)
