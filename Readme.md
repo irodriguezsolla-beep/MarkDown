@@ -4,4 +4,4 @@
 
 **Desarrollos recientes en Inteligencia Artificial (IA)**
 ##### ~~La IA ha avanzado notablemente gracias a tres factores clave: el desarrollo de procesadores gráficos especializados, la disponibilidad masiva de datos y los entornos de programación de código abierto para el aprendizaje automático.~~
-[buscador](megaprofe.es)
+[buscador](https://megaprofe.es/impacto-de-la-inteligencia-artificial-en-el-aprendizaje/?)
