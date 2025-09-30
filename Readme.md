@@ -10,3 +10,6 @@
 3. Desafíos y consideraciones éticas
 + Visión de futuro
 + Conclusión
+1. Modelos de estudio generados por IA
+    * Visión de futuro
+      * Visión de futuro2
