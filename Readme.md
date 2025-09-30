@@ -29,7 +29,7 @@
 > En el ámbito educativo, estos desarrollos han permitido la creación de plataformas de aprendizaje adaptativo que pueden personalizar los contenidos y métodos de enseñanza para cada estudiante. Esto no solo mejora la eficiencia del aprendizaje, sino que también hace que la educación sea más inclusiva, permitiendo que los estudiantes con diferentes estilos y ritmos de aprendizaje tengan una experiencia educativa más personalizada y efectiva. Es muy probable que ya conozcas alguna de estas plataformas, de las cuales ya hemos hablado en el blog de Megaprofe.
 
 ---
-:scary: aaaaah
+:scream: aaaaah
 
 ---
 ![imagen](scara.jpg)
