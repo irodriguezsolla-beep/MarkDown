@@ -8,6 +8,10 @@
 2. [Link](#Link)
 3. [Lista](#Listas)
 4. [Lista de tareas](#Listas-de-tareas)
+5. [Notas](#Notas)
+6. [Tablas](#Tablas)
+7. [Emoji](#Emoji)
+8. [Imagen](#Imagen)
 
 ---
 ## Negrita 
@@ -51,6 +55,7 @@
 :scream: aaaaah
 
 ---
+## Imagen
 ![imagen](scara.jpg)
 
 ---
