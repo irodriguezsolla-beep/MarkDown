@@ -6,8 +6,8 @@
 ## Índice
 1. [Negrita](#Negrita)
 2. [Link](#Link)
-3. [Lista](#Lista)
-4. [Lista de tareas](#Lista-de-tareas)
+3. [Lista](#Listas)
+4. [Lista de tareas](#Listas-de-tareas)
 
 ---
 ## Negrita 
