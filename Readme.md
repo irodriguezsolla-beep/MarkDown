@@ -7,7 +7,7 @@
 1. [Negrita](#Negrita)
 2. [Link](#Link)
 3. [Lista](#Lista)
-4. [Lista](#Lista-de-tareas)
+4. [Lista de tareas](#Lista-de-tareas)
 
 ---
 ## Negrita 
