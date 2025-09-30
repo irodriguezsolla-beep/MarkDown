@@ -33,4 +33,6 @@
 
 ---
 ![imagen](scara.jpg)
-Link al principio: [Link inicio](#Influencia de las IAs en el aprendizaje humano)
+
+---
+Link al principio: [Link inicio](#Influencia-de-las-IAs-en-el-aprendizaje-humano)
