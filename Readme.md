@@ -56,7 +56,7 @@
 
 ---
 ## Imagen
-![imagen](scara.jpg)
+![imagen](bob.gif)
 
 ---
 Link al principio: [Link inicio](#Influencia-de-las-IAs-en-el-aprendizaje-humano)
